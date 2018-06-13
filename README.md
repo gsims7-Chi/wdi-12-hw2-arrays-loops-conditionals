@@ -1,5 +1,3 @@
-# wdi-12-hw2-arrays-loops-conditionals
-
 ![ga](http://mobbook.generalassemb.ly/ga_cog.png)
 
 # wdi-CC2-funky-ducks
