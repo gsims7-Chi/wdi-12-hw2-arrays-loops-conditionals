@@ -26,15 +26,24 @@
 // 		console.log(i);
 // 	}
 // }
-const thom = ["Thom", 1000, "Christchurch"]
-const karolin = ["Karolin", 16, "New York"]
-const kristyn = ["Kristyn", 5, "Pittsburgh"]
-const matt = ["Matt H", 186, "Philadelphia"]
-thom[0] = "Gameboy"
-console.log(thom)
-karolin[1] = 16++
-console.log(karolin)
-matt[3] = "Gotham City"
-console.log(matt)
-kristyn[3] = "Brooklyn"
-console.log(kristyn)
+// const thom = ["Thom", 1000, "Christchurch"]
+// const karolin = ["Karolin", 16, "New York"]
+// const kristyn = ["Kristyn", 5, "Pittsburgh"]
+// const matt = ["Matt H", 186, "Philadelphia"]
+// thom[0] = "Gameboy"
+// console.log(thom)
+// karolin[1] = 16++
+// console.log(karolin)
+// matt[3] = "Gotham City"
+// console.log(matt)
+// kristyn[3] = "Brooklyn"
+// console.log(kristyn)
+const ninjaTurtles = ["Donatello", "Leonardo", "Raphael", "Michaelangelo"]
+	for (let i = 0; i < ninjaTurtles.length; i++){
+		console.log(ninjaTurtles[i].toUpperCase());
+	}
+
+
+
+
+
